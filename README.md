@@ -6,12 +6,6 @@ Built with HTML, CSS, and JavaScript, the site focuses on clean design, accessib
 
 ---
 
-## 🌐 **Live Demo**
-
-Explore the website [here](https://gineka.vercel.app)
-
----
-
 ## 🚀 Features
 
 - Modern layout built with **Flexbox** and **CSS Grid**.
